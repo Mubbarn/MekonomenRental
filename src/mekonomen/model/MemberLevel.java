@@ -1,4 +1,7 @@
 package mekonomen.model;
 
-public class MemberLevel {
+public enum MemberLevel {
+    STANDARD,
+    STUDENT,
+    PREMIUM
 }
